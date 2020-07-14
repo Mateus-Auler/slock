@@ -2,3 +2,4 @@
 
 ### Currently applied patches:
 
+- Dpms
