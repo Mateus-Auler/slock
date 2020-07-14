@@ -1,0 +1,10 @@
+*.o
+*.tar.gz
+slock
+config.h
+
+bare/
+patches/
+
+*.rej
+*.orig
