@@ -3,3 +3,4 @@
 ### Currently applied patches:
 
 - Dpms
+- Message
